@@ -10,9 +10,9 @@ Takes a bunch of text files, gets a bunch of audio files with the spoken content
 - `npm install`
 - Create a `config.js` file that has your Google TTS API key in it, like so:
 
-    module.exports = {
-      googleTTSAPIKey: 'your Google key here'
-    };
+        module.exports = {
+          googleTTSAPIKey: 'your Google key here'
+        };
 
 ## Usage
 
