@@ -1,0 +1,29 @@
+{
+  "name": "speak-em-all",
+  "version": "1.0.0",
+  "description": "Speaks a bunch of text.",
+  "main": "speak-em-all.js",
+  "private": false,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/speak-em-all.git"
+  },
+  "keywords": [
+    "text",
+    "speech",
+    "tts"
+  ],
+  "author": "Jim Kang",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jimkang/speak-em-all/issues"
+  },
+  "homepage": "https://github.com/jimkang/speak-em-all",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "oknok": "^3.0.0",
+    "request": "^2.88.0",
+    "request-body-mover": "^1.0.1"
+  }
+}
